@@ -1,0 +1,10 @@
+# Installing sass 
+I know sass to be a css preprocessor that is essentially css with super powers. With this css can do so much and still keep your code dry, clean and well indented. 
+Sass has the use of variables, mixin, functions, nesting. 
+# step 1: I visited the official sass website and navigated through the install navigation link.
+    - I Opened my VS code,
+    - I opened the parent folder where i would install sass.
+    - Navigated to a new terminal or by perssing the ctrl + shift + `
+    - Inside the Terminal I typed in <code> npm install -g sass </code>
+    - I got notification of changed packages and opted with a <code>npm fund</code>
+    - This was further confirmed when I got another return of the folder I am working on.
