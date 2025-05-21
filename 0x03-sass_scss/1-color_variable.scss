@@ -1,0 +1,16 @@
+// You must use a Sass variable
+// guillaume@ubuntu:~/$ sass 1-color_variable.scss | tail -n +2
+
+$primary-color: #333;
+$bg-color: #ffffff;
+
+
+body {
+  color: $bg-color
+}
+
+p {
+  color: $primary-color
+}
+
+// guillaume@ubuntu:~/$ 

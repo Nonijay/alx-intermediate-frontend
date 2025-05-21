@@ -1,7 +1,8 @@
 # Installing sass 
 I know sass to be a css preprocessor that is essentially css with super powers. With this css can do so much and still keep your code dry, clean and well indented. 
 Sass has the use of variables, mixin, functions, nesting. 
-# step 1: I visited the official sass website and navigated through the install navigation link.
+# Installing and Using Sass
+    - I visited the official sass website and navigated through the install navigation link.
     - I Opened my VS code,
     - I opened the parent folder where i would install sass.
     - Navigated to a new terminal or by perssing the ctrl + shift + `
@@ -10,3 +11,7 @@ Sass has the use of variables, mixin, functions, nesting.
     - This was further confirmed when I got another return of the folder I am working on.
     - Next I had create a file with a .scss file extension
     - I entered the <code> sass 0-debug_log.scss output.css </code>
+    - Then I created a scss <code>@debug "Hello World"</code> which got logged in the terminal
+    - For every file created I run the <code>sass filename.scss output.css </code>
+    - This runs scans the script for scss inputs and outputs it in the output.css
+    - You can also link the output.css to your html document, the way we link a regular css.
