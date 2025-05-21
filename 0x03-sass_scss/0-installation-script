@@ -12,6 +12,7 @@ Sass has the use of variables, mixin, functions, nesting.
     - Next I had create a file with a .scss file extension
     - I entered the <code> sass 0-debug_log.scss output.css </code>
     - Then I created a scss <code>@debug "Hello World"</code> which got logged in the terminal
-    - For every file created I run the <code>sass filename.scss output.css </code>
-    - This runs scans the script for scss inputs and outputs it in the output.css
+    - For every file created I run the <code>sass --watch filename.scss output.css </code>
+    - This watches and scans the script for scss inputs and outputs it in the output.css
+    - I can also scan an entire directory for <code>sass --watch filename.scss:output.css </code>
     - You can also link the output.css to your html document, the way we link a regular css.
