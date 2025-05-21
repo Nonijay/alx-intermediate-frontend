@@ -1,10 +1,11 @@
 body {
-  margin: 0px;
-  padding: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
-body p {
-  margin: 10px;
+div {
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 /*# sourceMappingURL=output.css.map */
