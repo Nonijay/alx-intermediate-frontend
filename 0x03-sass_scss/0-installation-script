@@ -8,4 +8,5 @@ Sass has the use of variables, mixin, functions, nesting.
     - Inside the Terminal I typed in <code> npm install -g sass </code>
     - I got notification of changed packages and opted with a <code>npm fund</code>
     - This was further confirmed when I got another return of the folder I am working on.
-    - I entered the code sass 0-debug_log.scss output.css 
+    - Next I had create a file with a .scss file extension
+    - I entered the <code> sass 0-debug_log.scss output.css </code>
