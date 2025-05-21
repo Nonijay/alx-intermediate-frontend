@@ -1,4 +1,7 @@
 // guillaume@ubuntu:~/$ sass 3-nested_tag.scss | tail -n +2
+//instructions 
+//No margin or padding in body tags
+// Margin 10px to all of the p tags inside body tags
 
 body {
   margin: 0px;
@@ -7,6 +10,7 @@ body {
 
 body p {
   margin: 10px; 
+  
 }
 
 // guillaume@ubuntu:~/$
